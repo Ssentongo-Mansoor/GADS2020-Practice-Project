@@ -6,7 +6,7 @@ Inorder for you to create a Virtual Machine on google cloud Platform using the G
 2. In GCP console, on the top right toolbar, click the Open Cloud Shell button
 ![](images/cloudshell.png)
 <br/>
-3. Click continue
+3. Click continue <br/>
 ![](images/continue.png)
 A terminal will be loaded and you will be able to type in different commands to perform differednt tasks using the CLI.
 <br/>
