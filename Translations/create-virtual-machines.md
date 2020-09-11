@@ -17,6 +17,7 @@ Type <br/>
 ```BASH
 gcloud config set compute/zone your-zone
 ```
+<br/>
 Replace 'your-zone' with the exact zone where you want to create your virtual machine forexample 'us-central1-a', do not include quotes.
 
 1. Create a Virtual machine with the following commands
