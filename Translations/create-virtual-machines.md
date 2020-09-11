@@ -5,10 +5,11 @@ Inorder for you to create a Virtual Machine on google cloud Platform using the G
 
 2. In GCP console, on the top right toolbar, click the Open Cloud Shell button
 ![](images/cloudshell.png)
+<br/>
 3. Click continue
 ![](images/continue.png)
 A terminal will be loaded and you will be able to type in different commands to perform differednt tasks using the CLI.
-
+<br/>
 We need to set up a region and a zone where our Virtual Machine will be created
 
 4. Set a zone
@@ -36,8 +37,8 @@ Tap enter on the keyboard and your Virtual Machine will be created
 7. View the Virtual Machine
 ```BASH
 gcloud compute instances list
-````
-8. Exit the Terminal
 ```
+8. Exit the Terminal
+```BASH
 exit
 ```
