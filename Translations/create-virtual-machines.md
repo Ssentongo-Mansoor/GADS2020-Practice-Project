@@ -13,7 +13,7 @@ A terminal will be loaded and you will be able to type in different commands to 
 We need to set up a region and a zone where our Virtual Machine will be created
 <br/>
 1. Set a zone
-Type
+Type <br/>
 ```BASH
 gcloud config set compute/zone your-zone
 ```
